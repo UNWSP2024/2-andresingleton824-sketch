@@ -5,7 +5,7 @@ def calculate_total_purchase():
     # the amount of sales tax, and the total.  
     # Assume the sales tax is 7 percent.
 
-    item1 = float(input("Enter price of item 1:  "))
+    item1 = float(input("Enter price of item 1: "))
     item2 = float(input("Enter price of item 2: "))
     item3 = float(input("Enter price of item 3: "))
     item4 = float(input("Enter price of item 4: "))
